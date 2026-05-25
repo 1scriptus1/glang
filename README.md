@@ -1,4 +1,4 @@
-# G — G Language Interpreted
+# LUMA BETA
 
 **File extension:** `.g`  
 **Run:** `python3 g.py <file.gi>` or `python3 g.py` (REPL)
